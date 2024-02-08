@@ -8,8 +8,8 @@ logger = logging.getLogger("my_app")
 def setup_logging(file_path: str) -> None:
     """
     Setup the application logger passing the file path of a json setup file
-
-    Args:
+\
+    Args :
         file_path (str): the relative file path to the logger json file
     """
     config_file = pathlib.Path(file_path)

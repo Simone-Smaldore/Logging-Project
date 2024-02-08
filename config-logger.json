@@ -2,22 +2,44 @@
     "version": 1,
     "disable_existing_loggers": false,
     "formatters": {
-        "simple": {
+        "one-line": {
+            "format": "[%(levelname)s | %(funcName)s: %(asctime)s] -> %(message)s"
+        },
+        "two-lines": {
             "format": "[%(levelname)s] -> (%(name)s logger in %(funcName)s) \n[%(asctime)s] -> %(message)s"
         }
     },
     "handlers": {
-        "stdout": {
+        "stderr": {
             "class": "logging.StreamHandler",
-            "formatter": "simple",
-            "stream": "ext://sys.stdout"
+            "level": "WARNING",
+            "formatter": "two-lines",
+            "stream": "ext://sys.stderr"
+        },
+        "file": {
+            "class": "logging.handlers.RotatingFileHandler",
+            "level": "DEBUG",
+            "formatter": "one-line",
+            "filename": "logs/my_app.log",
+            "maxBytes": 10000000,
+            "backupCount": 3
+        },
+        "timed-file": {
+            "class": "logging.handlers.TimedRotatingFileHandler",
+            "level": "DEBUG",
+            "formatter": "one-line",
+            "filename": "timed-logs/my_app.log",
+            "when": "d",
+            "backupCount": 30
         }
     },
     "loggers": {
         "root": {
             "level": "DEBUG",
             "handlers": [
-                "stdout"
+                "stderr",
+                "file",
+                "timed-file"
             ]
         }
     }

@@ -1,0 +1,478 @@
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:23,996] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,007] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,008] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,008] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,013] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,016] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,044] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,045] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,045] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,049] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,052] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,061] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,062] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,063] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,065] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,068] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,076] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,077] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,078] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,080] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,082] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,089] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,180] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,206] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,208] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,211] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,216] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,217] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,217] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,226] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,238] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,247] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,248] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,249] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,251] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,254] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,261] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,262] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,263] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,265] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,269] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,283] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,284] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,284] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,286] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,292] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,301] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,302] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,302] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,305] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,309] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,315] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,317] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,318] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,321] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,324] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,330] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,331] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,332] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,336] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,340] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,345] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,346] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,346] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,349] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,352] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,364] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,365] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,366] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,368] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,370] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,377] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,378] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,380] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,381] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,383] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,394] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,394] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,395] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,411] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,416] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,425] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,426] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,427] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,430] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,434] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,442] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,443] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,444] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,446] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,449] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,453] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,455] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,455] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,458] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,462] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,468] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,469] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,469] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,472] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,476] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,482] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,483] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,483] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,484] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,488] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,494] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,494] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,496] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,498] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,500] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,507] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,508] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,509] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,511] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,513] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,518] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,519] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,520] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,524] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,528] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,534] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,535] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,538] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,559] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,567] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,575] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,575] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,576] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,579] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,582] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,588] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,589] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,590] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,592] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,595] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,601] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,601] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,602] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,606] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,609] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,616] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,617] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,618] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,622] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,624] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,631] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,632] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,633] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,635] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,639] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,646] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,647] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,647] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,649] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,651] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,659] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,660] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,661] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,663] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,665] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,672] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,672] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,673] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,686] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,694] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,702] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,702] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,705] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,708] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,712] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,724] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,725] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,726] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,731] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,739] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,746] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,747] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,747] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,750] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,760] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,767] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,775] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,791] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,793] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,794] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,799] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,800] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,800] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,804] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,806] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,812] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,813] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,814] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,816] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,818] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,825] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,826] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,826] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,829] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,831] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,894] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,895] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,896] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,898] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,901] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,910] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,911] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,911] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,914] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,916] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,926] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,927] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,927] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,929] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,932] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,937] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,938] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,939] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,940] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,942] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,946] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,947] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,948] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,950] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,954] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,961] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,961] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,962] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,964] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,966] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,976] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,977] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,977] -> warning message
+[ERROR] -> (my_app logger in main) 
+[2024-02-08 12:03:24,979] -> error message
+[CRITICAL] -> (my_app logger in main) 
+[2024-02-08 12:03:24,982] -> critical message
+[DEBUG] -> (my_app logger in main) 
+[2024-02-08 12:03:24,992] -> debug message
+[INFO] -> (my_app logger in main) 
+[2024-02-08 12:03:24,995] -> info message
+[WARNING] -> (my_app logger in main) 
+[2024-02-08 12:03:24,996] -> warning message
