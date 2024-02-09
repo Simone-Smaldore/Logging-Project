@@ -35161,3 +35161,9 @@
 [WARNING | main: 2024-02-09 16:12:57,137] -> warning message
 [ERROR | main: 2024-02-09 16:12:57,138] -> error message
 [CRITICAL | main: 2024-02-09 16:12:57,140] -> critical message
+[DEBUG | main: 2024-02-09 16:20:39,236] -> debug message
+[INFO | main: 2024-02-09 16:20:39,237] -> info message
+[WARNING | main: 2024-02-09 16:20:39,237] -> warning message
+[ERROR | main: 2024-02-09 16:20:39,239] -> error message
+[CRITICAL | main: 2024-02-09 16:20:39,241] -> critical message
+[CRITICAL | main: 2024-02-09 16:20:39,243] -> critical message with extra

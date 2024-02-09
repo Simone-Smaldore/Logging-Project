@@ -26,6 +26,7 @@ def main():
     logger.warning("warning message")
     logger.error("error message")
     logger.critical("critical message")
+    logger.critical("critical message with extra", extra={"extra_val": 2})
 
 
 if __name__ == "__main__":
