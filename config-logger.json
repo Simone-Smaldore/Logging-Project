@@ -7,6 +7,19 @@
         },
         "two-lines": {
             "format": "[%(levelname)s] -> (%(name)s logger in %(funcName)s) \n[%(asctime)s] -> %(message)s"
+        },
+        "json-formatter": {
+            "()": "mylogger.MyJSONFormatter",
+            "fmt_keys": {
+                "level": "levelname", 
+                "message": "message",
+                "timestamp": "timestamp",
+                "logger": "name",
+                "module": "module",
+                "function": "funcName",
+                "line": "lineno",
+                "thread_name": "threadName"
+            }
         }
     },
     "handlers": {
@@ -29,7 +42,15 @@
             "level": "DEBUG",
             "formatter": "one-line",
             "filename": "timed-logs/my_app.log",
-            "when": "d",
+            "when": "D",
+            "backupCount": 30
+        },
+        "json-log": {
+            "class": "logging.handlers.TimedRotatingFileHandler",
+            "level": "DEBUG",
+            "formatter": "json-formatter",
+            "filename": "json-logs/my_app.log",
+            "when": "D",
             "backupCount": 30
         }
     },
@@ -39,7 +60,8 @@
             "handlers": [
                 "stderr",
                 "file",
-                "timed-file"
+                "timed-file",
+                "json-log"
             ]
         }
     }
